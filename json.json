@@ -1,0 +1,51 @@
+{
+	"version": 2,
+	"playerName": "Ball Shop",
+	"balls": [{
+			"name": "Bomb Frenzy",
+			"description": "Check out the app",
+			"price": 400,
+			"image": "https://unity.com/sites/default/files/styles/cards_16_9/public/2019-07/AOMnewscreen1.jpg",
+			"size": 3,
+			"weight": "2.5",
+			"free": "no"
+		},
+		{
+			"name": "A Fucci ball",
+			"description": "A large ball",
+			"price": 320,
+			"image": "https://i.pinimg.com/originals/31/63/53/3163531c6d5d50cc2a086170d3b30e7e.jpg",
+			"size": 4,
+
+			"weight": "3",
+
+			"free": "yes"
+
+		}
+	],
+
+
+	"loadingImages": [{
+			"image": "https://unity.com/sites/default/files/styles/810_scale_width/public/2019-11/unity-artist-designer-tools-scene-tooling_0.jpg"
+		},
+
+		{
+			"image": "https://www.moodvisuals.com/wp-content/uploads/2019/01/Unity_Demo_KV_FINAL-1.jpg"
+		},
+
+		{
+			"image": "https://myholidayplans.in/wp-content/uploads/2020/12/STATUE-OF-UNITY.jpg"
+		}
+	],
+
+	"startupTips": [{
+			"tip": "try bowling candleoin style in real life"
+		},
+		{
+			"tip": "use Quick Play to practice"
+		},
+		{
+			"tip": "Even pin counts"
+		}
+	]
+}
