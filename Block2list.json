@@ -82,47 +82,5 @@
     "Flatno": "12",
     "Availability": "Available",
     "Price": "56000"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "13",
-    "Availability": "Reserved",
-    "Price": "891452"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "14",
-    "Availability": "Sold",
-    "Price": "23565"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "15",
-    "Availability": "Available",
-    "Price": "56665"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "16",
-    "Availability": "Reserved",
-    "Price": "25600"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "17",
-    "Availability": "Available",
-    "Price": "56000"
-  },
-  {
-    "Block": "2",
-    "Floor": "1",
-    "Flatno": "18",
-    "Availability": "Reserved",
-    "Price": "25600"
   }
 ]
