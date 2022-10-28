@@ -4,83 +4,95 @@
     "Floor": "1",
     "Flatno": "1",
     "Availability": "Sold",
-    "Price": "25600"
+    "Price": "25600",
+    "sft": "1200"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "2",
     "Availability": "Available",
-    "Price": "56000"
+    "Price": "56000",
+    "sft": "1150"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "3",
     "Availability": "Reserved",
-    "Price": "891452"
+    "Price": "891452",
+    "sft": "1250"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "4",
     "Availability": "Sold",
-    "Price": "23565"
+    "Price": "23565",
+    "sft": "1100"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "5",
     "Availability": "Available",
-    "Price": "56665"
+    "Price": "56665",
+    "sft": "1050"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "6",
     "Availability": "Available",
-    "Price": "25600"
+    "Price": "25600",
+    "sft": "1000"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "7",
     "Availability": "Available",
-    "Price": "56000"
+    "Price": "56000",
+    "sft": "1180"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "8",
     "Availability": "Reserved",
-    "Price": "891452"
+    "Price": "891452",
+    "sft": "1240"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "9",
     "Availability": "Sold",
-    "Price": "23565"
+    "Price": "23565",
+    "sft": "1300"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "10",
     "Availability": "Available",
-    "Price": "56665"
+    "Price": "56665",
+    "sft": "1450"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "11",
     "Availability": "Available",
-    "Price": "25600"
+    "Price": "25600",
+    "sft": "1420"
   },
   {
     "Block": "2",
     "Floor": "1",
     "Flatno": "12",
     "Availability": "Available",
-    "Price": "56000"
+    "Price": "56000",
+    "sft": "950"
   }
 ]
