@@ -5,7 +5,8 @@
     "Flatno": "1",
     "Availability": "Sold",
     "Price": "25600",
-    "sft": "1200"
+    "sft": "1200",
+    "facing": "east"
   },
   {
     "Block": "2",
@@ -13,7 +14,8 @@
     "Flatno": "2",
     "Availability": "Available",
     "Price": "56000",
-    "sft": "1150"
+    "sft": "1150",
+    "facing": "east"
   },
   {
     "Block": "2",
@@ -21,7 +23,8 @@
     "Flatno": "3",
     "Availability": "Reserved",
     "Price": "891452",
-    "sft": "1250"
+    "sft": "1250",
+    "facing": "west"
   },
   {
     "Block": "2",
@@ -29,7 +32,8 @@
     "Flatno": "4",
     "Availability": "Sold",
     "Price": "23565",
-    "sft": "1100"
+    "sft": "1100",
+    "facing": "east"
   },
   {
     "Block": "2",
@@ -37,7 +41,8 @@
     "Flatno": "5",
     "Availability": "Available",
     "Price": "56665",
-    "sft": "1050"
+    "sft": "1050",
+    "facing": "west"
   },
   {
     "Block": "2",
@@ -45,7 +50,8 @@
     "Flatno": "6",
     "Availability": "Available",
     "Price": "25600",
-    "sft": "1000"
+    "sft": "1000",
+    "facing": "east"
   },
   {
     "Block": "2",
@@ -53,7 +59,8 @@
     "Flatno": "7",
     "Availability": "Available",
     "Price": "56000",
-    "sft": "1180"
+    "sft": "1180",
+    "facing": "north"
   },
   {
     "Block": "2",
@@ -61,7 +68,8 @@
     "Flatno": "8",
     "Availability": "Reserved",
     "Price": "891452",
-    "sft": "1240"
+    "sft": "1240",
+    "facing": "south"
   },
   {
     "Block": "2",
@@ -69,7 +77,8 @@
     "Flatno": "9",
     "Availability": "Sold",
     "Price": "23565",
-    "sft": "1300"
+    "sft": "1300",
+    "facing": "north"
   },
   {
     "Block": "2",
@@ -77,7 +86,8 @@
     "Flatno": "10",
     "Availability": "Available",
     "Price": "56665",
-    "sft": "1450"
+    "sft": "1450",
+    "facing": "south"
   },
   {
     "Block": "2",
@@ -85,7 +95,8 @@
     "Flatno": "11",
     "Availability": "Available",
     "Price": "25600",
-    "sft": "1420"
+    "sft": "1420",
+    "facing": "east"
   },
   {
     "Block": "2",
@@ -93,6 +104,7 @@
     "Flatno": "12",
     "Availability": "Available",
     "Price": "56000",
-    "sft": "950"
+    "sft": "950",
+    "facing": "west"
   }
 ]
