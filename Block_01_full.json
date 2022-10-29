@@ -1,326 +1,362 @@
 [
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "1",
-    "Availability": "Reserved",
-    "Price": "15550",
-    "sft": "1450",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "2",
-    "Availability": "Available",
-    "Price": "56000",
-    "sft": "1100",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "3",
-    "Availability": "Reserved",
-    "Price": "91452",
-    "sft": "1200",
-    "bhk": "2.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "4",
-    "Availability": "Sold",
-    "Price": "23565",
-    "sft": "1800",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "5",
-    "Availability": "Available",
-    "Price": "56665",
-    "sft": "1950",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "6",
-    "Availability": "Available",
-    "Price": "16000",
-    "sft": "1800",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "7",
-    "Availability": "Available",
-    "Price": "48600",
-    "sft": "1200",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "8",
-    "Availability": "Reserved",
-    "Price": "99800",
-    "sft": "1200",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "9",
-    "Availability": "Sold",
-    "Price": "28865",
-    "sft": "1320",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "10",
-    "Availability": "Available",
-    "Price": "89665",
-    "sft": "1450",
-    "bhk": "3.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "11",
-    "Availability": "Available",
-    "Price": "86000",
-    "sft": "2000",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "1",
-    "Flatno": "12",
-    "Availability": "Reserved",
-    "Price": "89000",
-    "sft": "1100",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "1",
-    "Availability": "Reserved",
-    "Price": "56665",
-    "sft": "1450",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "2",
-    "Availability": "Available",
-    "Price": "66940",
-    "sft": "1100",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "3",
-    "Availability": "Reserved",
-    "Price": "45600",
-    "sft": "1200",
-    "bhk": "2.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "4",
-    "Availability": "Sold",
-    "Price": "96000",
-    "sft": "1800",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "5",
-    "Availability": "Available",
-    "Price": "91452",
-    "sft": "1950",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "6",
-    "Availability": "Available",
-    "Price": "69900",
-    "sft": "1800",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "7",
-    "Availability": "Available",
-    "Price": "40000",
-    "sft": "1200",
-    "bhk": "3.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "8",
-    "Availability": "Reserved",
-    "Price": "96000",
-    "sft": "1200",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "9",
-    "Availability": "Sold",
-    "Price": "40052",
-    "sft": "1320",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "10",
-    "Availability": "Available",
-    "Price": "66000",
-    "sft": "1450",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "11",
-    "Availability": "Available",
-    "Price": "45600",
-    "sft": "2000",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "2",
-    "Flatno": "12",
-    "Availability": "Reserved",
-    "Price": "96000",
-    "sft": "1100",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "1",
-    "Availability": "Reserved",
-    "Price": "15550",
-    "sft": "1450",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "2",
-    "Availability": "Available",
-    "Price": "26000",
-    "sft": "1100",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "3",
-    "Availability": "Reserved",
-    "Price": "91782",
-    "sft": "1200",
-    "bhk": "2.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "4",
-    "Availability": "Sold",
-    "Price": "36000",
-    "sft": "1800",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "5",
-    "Availability": "Available",
-    "Price": "50000",
-    "sft": "1950",
-    "bhk": "4"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "6",
-    "Availability": "Available",
-    "Price": "10000",
-    "sft": "1800",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "7",
-    "Availability": "Available",
-    "Price": "45600",
-    "sft": "1200",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "8",
-    "Availability": "Reserved",
-    "Price": "96000",
-    "sft": "1200",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "9",
-    "Availability": "Sold",
-    "Price": "23232",
-    "sft": "1320",
-    "bhk": "3"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "10",
-    "Availability": "Available",
-    "Price": "13565",
-    "sft": "1450",
-    "bhk": "3.5"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "11",
-    "Availability": "Available",
-    "Price": "36665",
-    "sft": "2000",
-    "bhk": "2"
-  },
-  {
-    "Block": "1",
-    "Floor": "3",
-    "Flatno": "12",
-    "Availability": "Reserved",
-    "Price": "62000",
-    "sft": "1100",
-    "bhk": "4"
-  }
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 1,
+   "Availability": "Reserved",
+   "Price": 15550,
+   "sft": 1450,
+   "bhk": 3,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 2,
+   "Availability": "Available",
+   "Price": 56000,
+   "sft": 1100,
+   "bhk": 2,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 3,
+   "Availability": "Reserved",
+   "Price": 91452,
+   "sft": 1200,
+   "bhk": 2.5,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 4,
+   "Availability": "Sold",
+   "Price": 23565,
+   "sft": 1800,
+   "bhk": 3,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 5,
+   "Availability": "Available",
+   "Price": 56665,
+   "sft": 1950,
+   "bhk": 4,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 6,
+   "Availability": "Available",
+   "Price": 16000,
+   "sft": 1800,
+   "bhk": 3,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 7,
+   "Availability": "Available",
+   "Price": 48600,
+   "sft": 1200,
+   "bhk": 2,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 8,
+   "Availability": "Reserved",
+   "Price": 99800,
+   "sft": 1200,
+   "bhk": 2,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 9,
+   "Availability": "Sold",
+   "Price": 28865,
+   "sft": 1320,
+   "bhk": 3,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 10,
+   "Availability": "Available",
+   "Price": 89665,
+   "sft": 1450,
+   "bhk": 3.5,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 11,
+   "Availability": "Available",
+   "Price": 86000,
+   "sft": 2000,
+   "bhk": 4,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 1,
+   "Flatno": 12,
+   "Availability": "Reserved",
+   "Price": 89000,
+   "sft": 1100,
+   "bhk": 2,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 1,
+   "Availability": "Reserved",
+   "Price": 56665,
+   "sft": 1450,
+   "bhk": 2,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 2,
+   "Availability": "Available",
+   "Price": 66940,
+   "sft": 1100,
+   "bhk": 2,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 3,
+   "Availability": "Reserved",
+   "Price": 45600,
+   "sft": 1200,
+   "bhk": 2.5,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 4,
+   "Availability": "Sold",
+   "Price": 96000,
+   "sft": 1800,
+   "bhk": 4,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 5,
+   "Availability": "Available",
+   "Price": 91452,
+   "sft": 1950,
+   "bhk": 3,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 6,
+   "Availability": "Available",
+   "Price": 69900,
+   "sft": 1800,
+   "bhk": 3,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 7,
+   "Availability": "Available",
+   "Price": 40000,
+   "sft": 1200,
+   "bhk": 3.5,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 8,
+   "Availability": "Reserved",
+   "Price": 96000,
+   "sft": 1200,
+   "bhk": 2,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 9,
+   "Availability": "Sold",
+   "Price": 40052,
+   "sft": 1320,
+   "bhk": 3,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 10,
+   "Availability": "Available",
+   "Price": 66000,
+   "sft": 1450,
+   "bhk": 4,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 11,
+   "Availability": "Available",
+   "Price": 45600,
+   "sft": 2000,
+   "bhk": 4,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 2,
+   "Flatno": 12,
+   "Availability": "Reserved",
+   "Price": 96000,
+   "sft": 1100,
+   "bhk": 2,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 1,
+   "Availability": "Reserved",
+   "Price": 15550,
+   "sft": 1450,
+   "bhk": 3,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 2,
+   "Availability": "Available",
+   "Price": 26000,
+   "sft": 1100,
+   "bhk": 2,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 3,
+   "Availability": "Reserved",
+   "Price": 91782,
+   "sft": 1200,
+   "bhk": 2.5,
+   "Faceing": "West"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 4,
+   "Availability": "Sold",
+   "Price": 36000,
+   "sft": 1800,
+   "bhk": 3,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 5,
+   "Availability": "Available",
+   "Price": 50000,
+   "sft": 1950,
+   "bhk": 4,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 6,
+   "Availability": "Available",
+   "Price": 10000,
+   "sft": 1800,
+   "bhk": 3,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 7,
+   "Availability": "Available",
+   "Price": 45600,
+   "sft": 1200,
+   "bhk": 2,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 8,
+   "Availability": "Reserved",
+   "Price": 96000,
+   "sft": 1200,
+   "bhk": 2,
+   "Faceing": "East"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 9,
+   "Availability": "Sold",
+   "Price": 23232,
+   "sft": 1320,
+   "bhk": 3,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 10,
+   "Availability": "Available",
+   "Price": 13565,
+   "sft": 1450,
+   "bhk": 3.5,
+   "Faceing": "South"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 11,
+   "Availability": "Available",
+   "Price": 36665,
+   "sft": 2000,
+   "bhk": 2,
+   "Faceing": "North"
+ },
+ {
+   "Block": 1,
+   "Floor": 3,
+   "Flatno": 12,
+   "Availability": "Reserved",
+   "Price": 62000,
+   "sft": 1100,
+   "bhk": 4,
+   "Faceing": "South"
+ }
 ]
